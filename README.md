@@ -20,12 +20,12 @@ Fichiers :
 > http://localhost
 
 #### tentez 
-> nc hashed-shellcode.cyrhades.fr:4000
+> nc hashed-shellcode.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 -----------
 
