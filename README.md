@@ -5,7 +5,7 @@ Vous aviez aimé Encrypted Shellcode du FCSC 2021 ? Devinez quoi ? Voici la vers
 **Note :** l’image de base Docker sur le service distant est ```debian:bookworm-slim```.
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Hashed Shellcode](https://hackropole.fr/fr/challenges/pwn/fcsc2024-pwn-hashed-shellcode/)
 
